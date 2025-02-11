@@ -86,7 +86,8 @@ def menu():
             break
         else:
             print('Ação invalida.')
-                    
+menu()
+
 
         
 
